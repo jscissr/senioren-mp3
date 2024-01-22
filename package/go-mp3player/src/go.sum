@@ -1,0 +1,8 @@
+github.com/stianeikeland/go-rpio/v4 v4.4.0 h1:LScvNyXHF412co42LG5t7bvBDbtDAhLF828ebaGqmjA=
+github.com/stianeikeland/go-rpio/v4 v4.4.0/go.mod h1:BkK52zk+FRk8wCTDf88/86Sojc+NfUiCAHd1ZV3RuTM=
+github.com/ziutek/glib v0.0.0-20141105171902-a43f7a959840 h1:KlAjvC+L41Ki6fICR9D/QjIHpliLGDzn6EbRzOLLlBU=
+github.com/ziutek/glib v0.0.0-20141105171902-a43f7a959840/go.mod h1:szXPhCLKZNso3Tek6TW1XJIZUp9a8Huns4GtRNe/q8U=
+github.com/ziutek/gst v0.0.0-20180725103650-8b4aba5e72b3 h1:EtZxjMm6AgWmy6ToSLwXTJztF/EpnWx36NjuoTsHO/8=
+github.com/ziutek/gst v0.0.0-20180725103650-8b4aba5e72b3/go.mod h1:BGlPFIsTRIBisow/dvw+Et3oisYPJq42nk91kzS840I=
+golang.org/x/sys v0.0.0-20181228144115-9a3f9b0469bb h1:pf3XwC90UUdNPYWZdFjhGBE7DUFuK3Ct1zWmZ65QN30=
+golang.org/x/sys v0.0.0-20181228144115-9a3f9b0469bb/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
